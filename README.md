@@ -69,6 +69,6 @@ The SeedMaster app is designed to automate and optimize the process of sowing se
 ---
 
 ### Contributors
-- Amarjit Kumar
 - Rohit Paul
+- Amarjit Kumar
 - Saurav Baidya
