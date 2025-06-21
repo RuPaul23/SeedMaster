@@ -67,6 +67,8 @@ The SeedMaster app is designed to automate and optimize the process of sowing se
 - Partnerships and knowledge exchange empower farmers to adapt to changing conditions, ensuring long-term impact and relevance in modern agriculture.
 
 ---
+### Want to fund us?
+Email: paulrohit2021@gmail.com
 
 ### Contributors
 - Rohit Paul
