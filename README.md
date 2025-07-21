@@ -1,3 +1,4 @@
+## This project is under active development. Redistribution or commercial use without permission is prohibited.
 # SeedMaster
 
 Welcome to SeedMaster, an innovative solution designed to revolutionize agriculture through precision seed sowing, soil mixing, water management, and climate monitoring. This README provides an overview of the SeedMaster app, its features, and how to set it up.
